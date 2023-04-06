@@ -1,6 +1,6 @@
 # flap
 
-A new Flutter project.
+This is something i did on free time and is not yet complete and i plan on finishing this as soon as i get the time.
 
 ## Getting Started
 
